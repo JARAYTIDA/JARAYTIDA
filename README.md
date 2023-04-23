@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate web3 developer</h3>
-<img margin:10px align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img margin:10px alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaraytida&label=Profile%20views&color=0e75b6&style=flat" alt="jaraytida" /> </p>
 
