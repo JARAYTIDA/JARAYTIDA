@@ -17,6 +17,17 @@
 
 ---
 
+### 🚀 What I Do  
+I design and build **autonomous AI-driven systems** that troubleshoot, analyze root causes, and **self-heal complex infrastructure**. Currently at **Vasco AI**, I’m working on:  
+
+- **Autonomous Troubleshooting & RCA:** AI agents that ingest **logs, metrics, configs** (Prometheus, Grafana, Loki, ELK) and execute safe remediation.  
+- **Cloud-Native Microservices:** Event-driven architectures (**Kafka/NATS**, Celery) with **horizontal scaling** on **AWS & GCP**.  
+- **Observability & Automation:** Integrating with **Ansible, Terraform, Kubernetes Operators, cPanel/WHM APIs** for infra orchestration.  
+- **Governance & Security:** Zero-trust principles, **RBAC**, **XAI-based action logs**, and compliance-ready auditability.  
+- **LLM & RAG:** GPU-accelerated inference, multi-agent reasoning, and retrieval-augmented generation pipelines.  
+
+---
+
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://twitter.com/adityar59271091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
